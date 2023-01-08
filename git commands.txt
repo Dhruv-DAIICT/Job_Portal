@@ -1,0 +1,8 @@
+git --global user.name <username>
+git --global user.email <email>
+
+to check remove input
+
+git init // to initialize
+
+ls --lart // to see hidden file
