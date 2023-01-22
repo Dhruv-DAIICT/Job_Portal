@@ -1,8 +1,13 @@
 git --global user.name <username>
 git --global user.email <email>
 
+
+git config --list 
+
 to check remove input
 
 git init // to initialize
 
 ls --lart // to see hidden file
+
+git status
